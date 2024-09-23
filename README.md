@@ -13,7 +13,6 @@ NewzApp is a simple, dynamic web application that allows users to view and explo
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python/Flask (if applicable)
 - **API**: Integrated with [NewsAPI](https://newsapi.org/) for fetching real-time news updates.
 - **Libraries**: Bootstrap (for responsive UI design), Axios (for API requests)
 
